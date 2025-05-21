@@ -59,7 +59,7 @@ Skip the hand-holding and jump straight to language-specific SDKs, example dApps
 
 ## Open Source Contributions
 
-Looking to go deeper? Head over to the fully open-sourced **[Hiero repository](https://github.com/hashgraph/hiero)**—the canonical place for Hedera protocol code and RFC-style discussions. PRs welcome! 🛠️
+Looking to go deeper? Head over to the fully open-sourced **[Hiero repository](https://github.com/hiero-ledger)**—the canonical place for Hedera protocol code and RFC-style discussions. PRs welcome! 🛠️
 
 ## License
 
