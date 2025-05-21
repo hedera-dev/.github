@@ -55,8 +55,6 @@ Skip the hand-holding and jump straight to language-specific SDKs, example dApps
 | **EVM**                | `hedera-hardhat`                                                           | Hardhat on Hedera            | Solidity Gas Workshop   | –        | Hardhat Plugin                                                | Foundry Kit          |
 | **Hybrid (HTS × EVM)** | `hts-evm-bridge`                                                           | Hybrid Token Tutorial        | –                       | –        | –                                                             | Hybrid Scaffold      |
 
-*This table is auto-generated from [`/.matrix.yml`](./.matrix.yml) during CI to avoid stale links.*
-
 ## Open Source Contributions
 
 Looking to go deeper? Head over to the fully open-sourced **[Hiero repository](https://github.com/hiero-ledger)**—the canonical place for Hedera protocol code and RFC-style discussions. PRs welcome! 🛠️
