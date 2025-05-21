@@ -1,8 +1,8 @@
 # Hedera Developers
 
-[![Release](https://img.shields.io/github/v/release/hashgraph/hedera-sdk-js?label=latest)](https://github.com/hashgraph/hedera-sdk-js/releases)
-[![Docs](https://img.shields.io/badge/docs-hedera.dev-blue)](https://docs.hedera.com)
-[![Discord](https://img.shields.io/discord/915969073218412594?label=discord)](https://hedera.com/discord)
+[![Release](https://img.shields.io/github/v/release/hiero-ledger/hiero-consensus-node?label=latest)](https://github.com/hiero-ledger/hiero-consensus-node/releases)
+[![Docs](https://img.shields.io/badge/docs-blue)](https://docs.hedera.com)
+[![Discord](https://img.shields.io/badge/discord-hedera-blue)](https://hedera.com/discord)
 
 > Build, test, and scale dApps on the carbon-negative Hedera network.
 
